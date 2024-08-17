@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.busness-tools-section{
+    background-color: #083248;
+    margin-top: 5%;
+    padding: 0% 0% 5% 0%;
+}
+.busness-tools-section h1{
+    color: #ffff;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+    padding: 3% 0% 2% 0%;
+}
+.tools-section{
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    justify-content:center;
+    gap: 20px;
+   
+}
+.busness-tools{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 150px;
+    height: 220px;
+    background-color: #ffff;
+    align-content: flex-start;
+}
+.busness-tools img{
+    width: 90px;
+    height: 90px;
+    padding: 10px 5px 5px 5px;
+}
+.busness-tools h2{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.busness-tools h2 a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #ff0800;
+}
